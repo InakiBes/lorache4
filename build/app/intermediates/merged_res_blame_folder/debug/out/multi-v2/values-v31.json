@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\aFlutter\\Proyectos\\lorache_r\\lorache\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v31\\values-v31.xml",
+            "map": [
+                {
+                    "source": "D:\\aFlutter\\Proyectos\\lorache_r\\lorache\\android\\app\\src\\main\\res\\values-v31\\styles.xml",
+                    "from": {
+                        "startLines": "3,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "176,1072",
+                        "endLines": "10,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "714,1238"
+                    },
+                    "to": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,591",
+                        "endLines": "9,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "586,755"
+                    }
+                }
+            ]
+        }
+    ]
+}
