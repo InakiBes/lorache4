@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\aFlutter\\Proyectos\\lorache_r\\lorache\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ky\\values-ky.xml",
+            "outputFile": "/Users/deditec/Desktop/proyecto lorache iñaki/lorache4/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Inaki\\.gradle\\caches\\transforms-3\\acbce933e4b464a5224ed377a62db1f5\\transformed\\core-1.6.0\\res\\values-ky\\values-ky.xml",
+                    "source": "/Users/deditec/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/res/values-ky/values-ky.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

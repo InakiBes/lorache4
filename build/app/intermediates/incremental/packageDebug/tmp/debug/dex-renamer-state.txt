@@ -1,4 +1,4 @@
-#Fri Oct 14 21:31:12 CEST 2022
-base.0=D\:\\aFlutter\\Proyectos\\lorache_r\\lorache\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Fri Oct 14 22:41:15 CEST 2022
+base.0=/Users/deditec/Desktop/proyecto lorache iñaki/lorache4/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

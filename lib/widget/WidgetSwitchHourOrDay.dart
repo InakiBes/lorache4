@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:lorache/home.dart';
 import 'package:lorache/main.dart';
 import '../values/styles.dart';
 import 'package:provider/provider.dart';
@@ -13,7 +14,6 @@ class WidgetSwitchHourOrDay extends StatefulWidget {
 
 /// private State class that goes with WidgetSwitchHourOrDay
 class _WidgetSwitchHourOrDayState extends State<WidgetSwitchHourOrDay> {
-
   bool isSwitched = false;
   @override
   Widget build(BuildContext context) {
@@ -21,10 +21,9 @@ class _WidgetSwitchHourOrDayState extends State<WidgetSwitchHourOrDay> {
       child: Row(
         mainAxisAlignment: MainAxisAlignment.spaceEvenly,
         children: <Widget>[
-          Text('Per diyas',
-            style: isSwitched == false
-                ? bodySBold
-                : bodyS,
+          Text(
+            'Per diyas',
+            style: isSwitched == false ? bodySBold : bodyS,
           ),
           Switch(
             value: isSwitched,
@@ -36,10 +35,9 @@ class _WidgetSwitchHourOrDayState extends State<WidgetSwitchHourOrDay> {
               });
             },
           ),
-          Text('Per oras',
-            style: isSwitched == true
-                ? bodySBold
-                : bodyS,
+          Text(
+            'Per oras',
+            style: isSwitched == true ? bodySBold : bodyS,
           )
         ],
       ),
