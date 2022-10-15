@@ -1,8 +1,6 @@
 # lorache
 
-<<<<<<< HEAD
 L'orache app
-=======
 L'orache app con Russell 
 
 ## Getting Started
@@ -17,4 +15,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
->>>>>>> 436c2a596d56713d5d0f3fa3158998257b5b8931
+
+------
